@@ -1,2 +1,0 @@
-# MyCode
-Devops Training Repository
